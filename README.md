@@ -62,11 +62,4 @@ cd zero-trust-cilium-tetragon
 
 ---
 
-### zero-trust-cilium-tetragon/ ###
-├── docs/                # Concepts, architecture, step-by-step guides
-├── policies/            # Cilium Network Policies (L3–L7)
-├── scripts/             # Automation and setup scripts
-├── manifests/           # Kubernetes manifests
-├── screenshots/         # Proof and validation screenshots
-├── README.md            # Project documentation
-└── LICENSE              # License information
+
