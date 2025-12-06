@@ -60,8 +60,9 @@ This approach minimizes implicit trust, enforces identity-based access, and enha
 git clone https://github.com/<your-username>/zero-trust-cilium-tetragon.git
 cd zero-trust-cilium-tetragon
 
+---
 
-##zero-trust-cilium-tetragon/
+## zero-trust-cilium-tetragon/
 ├── docs/                # Concepts, architecture, step-by-step guides
 ├── policies/            # Cilium Network Policies (L3–L7)
 ├── scripts/             # Automation and setup scripts
