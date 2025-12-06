@@ -62,7 +62,7 @@ cd zero-trust-cilium-tetragon
 
 ---
 
-## zero-trust-cilium-tetragon/
+## zero-trust-cilium-tetragon/ ##
 ├── docs/                # Concepts, architecture, step-by-step guides
 ├── policies/            # Cilium Network Policies (L3–L7)
 ├── scripts/             # Automation and setup scripts
